@@ -1,5 +1,5 @@
 
 // console.log('test repo edited,local')
 
-console.log('test repo edited,edited via ')
+console.log('test repo edited,edited')
 
